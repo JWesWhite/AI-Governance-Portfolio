@@ -2,12 +2,13 @@ Platform Name
 Vendor - BOX AI
 Business Owner - Jonathan White. The Product AI Team is at the forefront of the business. 
 Techinal Owner - Chief Technology Officer.
-Platform Purpose - 
-Intended Use Case(s)
-Prohibited Use Case(s)
-Data Considerations
-Top Risks
+Platform Purpose - Box AI functions as an intelligent content management enhancement that integrates advanced AI models directly into your secure cloud storage to streamline how you interact with business files. By leveraging this tool, you can perform Natural Language queries across individual or multiple documents to find specific details, such as contract clauses or financial figures, without manually scanning through large volumes of text. Box AI turns your content into an intelligent knowledge base you can query naturally, eliminating the need for tedious manual document reviews and enabling teams to find answers in seconds instead of hours. Box AI's core capabilities span content insights, intelligent automation, and secure, customizable agents designed for enterprise workflows such as Automated data extraction, Instant Document Analysis and Q&A and Permissions-Aware Security. Box AI is built for enterprise teams across nearly every department and industry—from financial services and legal to marketing, sales, and operations—where content-heavy workflows and compliance requirements are paramount.
+Intended Use Case - Box AI is designed to embed intelligent agents throughout your organization's content workflows, transforming unstructured data into actionable insights while maintaining enterprise security. The platform uses AI agents to automate complex, multi-step work and integrates with your existing systems, leveraging models from OpenAI, Anthropic, Google, and other providers to match each task's demands. Content Generation = Context-aware content tailored to your audience. Software Development Assistance = Custom fields and instructions your teams define. Knowledge Search = Context-aware information retrieval across complex files. Data Analytics = AI agents that extract and interpret unstructured data. Workflow Automation = Agentic automation with conditional branching and routing.
+Prohibited Use Case(s) - Box AI should not be used for uploading regulated data without proper approval, processing customer personally identifiable information without authorization, making fully autonomous decisions, or sharing confidential information with unauthorized users. Each use case carries distinct compliance and security risks that organizations must actively prevent. Uploading Regulated Data Without Approval (Compliance Risk) = Data may breach industry regulations; customer responsibility to ensure legal compliance before use. Processing Customer PII Without Authorization (Privacy/Consent Risk) = Unauthorized processing violates data protection laws; strict adherence to permissions is required. Fully Autonomous Decision Making (Governance Risk) = AI outputs lack human oversight for high-risk decisions; inherent limitations mean AI should not drive consequential outcomes alone. Sharing Confidential Information with Unauthorized Users (Security Risk) = Strict controls and permissions prevent data leakage; unauthorized sharing violates access policies.
+Data Considerations - 
+Key Risks
 Required Controls
 Human Oversight Requirements
 Monitoring Requirements
 Approval Recommendation
+Justification
