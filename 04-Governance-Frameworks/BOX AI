@@ -12,13 +12,13 @@ Section 2: Governance Structure (RACI)
 
 Who is involved in governing the platform? - Box AI governance involves Box's leadership team and multiple internal departments working within a structured framework. The platform is controlled by Box's built-in permissions system, which ensures customers retain authority over their data and can determine who accesses AI features and content.
 
-Role                        Responsibility
+Role                                                                     Responsibility
 
-Business Owner              Owns business use case
-AI Governance Lead          Governance oversight
-Security                    Security review
-Privacy                     Privacy review
-Platform Owner              Platform administration
+Operating Committee (OpCo)                                               Sets overall AI strategy, priorities, best practices, and usage guidelines
+Legal, Security, Compliance, Product, Engineering, Supplier Management   Reviews compliance, security, and industry standards alignment
+Functional Leaders (Sales, Marketing, Engineering, Customer Support)     Applies OpCo guidelines to departmental AI strategy and processes
+AI Managers                                                              Oversees individual AI agents, monitors performance, and ensures compliance
+Box Administrators & End Users                                           Enable/disable Box AI features and determine content applicability
 
 ⸻
 
