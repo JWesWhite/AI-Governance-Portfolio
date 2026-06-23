@@ -38,19 +38,19 @@ Medium Risk
 
 Example:
 
-* Internal business decisions
-* Sensitive business information
+* Black Box Model Behavior & Explainability Failures
+* Data Retention in AI Provider Systems
 
 High Risk
 
 Example:
 
 * Customer data
-* Regulated data
+* Regualted data
 * Autonomous actions
 * Financial decisions
 
-What tier would your platform be and why?
+What tier would your platform be and why? - For most enterprise AI risk assessments, Box AI would generally be considered a Medium-Risk AI platform, not Low Risk and not typically High Risk. Box AI can Analyze and summarize business documents, extract information from contracts and records, generate content and recommendations, automate workflows using AI agents and operate on potentially sensitive enterprise data stored in Box. The aforementioned creates risks such as: ncorrect summaries or hallucinations, disclosure of sensitive information if permissions are misconfigured, automated workflow errors and compliance and governance concerns in regulated industries. Box AI is designed with enterprise controls, permission-aware access, governance features, and human oversight mechanisms, which reduces its overall risk profile. Under common AI Risk-rating schemes, the Assessment for Box AI falls under the Medium Risk Level as it is most appropriate for general enterprise use cases.
 
 ⸻
 
