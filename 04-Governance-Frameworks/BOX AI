@@ -110,27 +110,27 @@ Require:
 
 Human Oversight
 
-How are humans involved?
+How are humans involved? - Box AI requires human oversight to prevent harm, especially in high-risk decision-making. Customers are responsible for combining human judgment with AI-generated insights rather than relying entirely on automated outputs, and they must avoid using Box AI for consequential decisions—such as employment, healthcare, or legal matters—without explicit human review.
 
 Transparency
 
-How are users informed AI is being used?
+How are users informed AI is being used? - Box AI informs users about AI usage through disclosure statements and transparency labeling practices aligned with industry standards, ensuring users understand when they are interacting with AI systems rather than human-generated content or processes.
 
 Accountability
 
-Who owns outcomes?
+Who owns outcomes? - The deploying organization bears primary accountability for operational outcomes of Box AI systems, including agent behavior, decision-making authority, and performance results. This accountability extends to how the organization defines scope, authorizes autonomy levels, and oversees live operations—not to platform operators, integrators, or model providers.
 
 Fairness
 
-How will bias be managed?
+How will bias be managed? - Box AI manages bias through rigorous model evaluation, continuous testing across diverse use cases, and customer responsibility frameworks that emphasize human oversight and awareness of inherent AI limitations.
 
 Privacy
 
-How will sensitive data be protected?
+How will sensitive data be protected? - Box AI protects sensitive data through layered security controls, permission-based access restrictions, and explicit data governance policies that prevent unauthorized exposure while maintaining customer control over content processing.
 
 Security
 
-How will access and usage be secured?
+How will access and usage be secured? - Box AI secures access and usage through permissions-aware architecture, OAuth authentication, and granular administrative controls that enforce existing Box security policies across all AI interactions while preventing unauthorized content exposure.
 
 ⸻
 
