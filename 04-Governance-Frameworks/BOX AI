@@ -97,7 +97,7 @@ Monitoring Controls
 
 Responsible AI Controls
 
-* Algorithmic Impact Assessment (AIA)
+* BOX-14 - The Enterprise Risk Management (ERM) & Corporate Governance Teams implement PM-1 by establisheing, documenting, and maintaining a formal Responsible AI Governance Program. This program requires that prior to the development, training, procurement, or production deployment of any machine learning model or generative AI application, the system owner must submit a standardized AI Algorithmic Impact Assessment (AIA) to the AI Governance Committee. The AIA must explicitly evaluate and document potential risks related to data provenance, algorithmic bias, model explainability, and safety boundaries. System approval and model onboarding are strictly prohibited until the AI Governance Committee formally reviews, signs off, and registers the system in the Central AI Inventory. This occurs when an AI project changes and scheduled governance reviews, which are continuous and on an annual basis. Results are reviewed by the Enterprise Risk Management (ERM) & Corporate Governance Teams. Evidence includes Governance Frameworks, Data Provenance and Adversarial Defense.
 * Role-Based AI and Security Awareness Training
 
 ⸻
