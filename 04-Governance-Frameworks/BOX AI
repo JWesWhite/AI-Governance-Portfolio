@@ -93,7 +93,7 @@ Data Controls
 Monitoring Controls
 
 * BOX-05 - The The Information Security (InfoSec) Team implements MP-4 by physically control and securely storing media within controlled areas. The organization uses physical safes or lockboxes to securely store physical components inside locked desks, drawers, safes or specialized media cabinents. This occurs at least once every 12 months (annually) or whenever a major system infrastucture change occurs. Results are reviewed by the InfoSec Team. Evidence includes Media Inventory Spreadsheets, Facility Photos and Cryptographic Key Management Logs.
-* Integrated Risk Management (IRM)
+* BOX-06 - The Enterprise Risk Management (ERM) Team implements CA-2 by selecting the appropriate assessment team for the type of assessment to be conducted. The organization uses ServiceNOW Integrated Risk Management (IRM) to automate contol system workflows and sends evidence requests to system owners and maps assessment results directly to the NIST 800-53 framework. Periodicly, scheduled by humans can occur Weekly, Quarterly and Monthly. Results are reviewed by the ERM Team. Evidence includes Assesor Independence Attestation, System Security Plan (SSP) Alignment Review and Vulnerability Scan Reports.
 
 Responsible AI Controls
 
