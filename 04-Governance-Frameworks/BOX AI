@@ -87,7 +87,7 @@ Access Controls
 
 Data Controls
 
-* Just-In-Time (JIT) Access
+* BOX-03 - The Identity and Access Management (IAM) Team implements AC-2(11) by enforcing and specifying usage conditions to increase user accountability and enable effective account monitoring. The organization uses Just-In-Time (JIT) Access to lock or entirely disable an accounts until a user requests access for a specific change window. This typically occurs every 1 to 4 hours. Results are reviewed by the Team Leads and System/Data Owners. Evidence includes The Ticket Matching Reconciliation Sheet, PAM Session Review Log and Quarterly User Access Review (UAR) Sign-Off.
 * Multi-Factor Authentication (MFA)
 
 Monitoring Controls
