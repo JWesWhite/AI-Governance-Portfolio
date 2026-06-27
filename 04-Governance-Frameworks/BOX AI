@@ -88,7 +88,7 @@ Access Controls
 Data Controls
 
 * BOX-03 - The Identity and Access Management (IAM) Team implements AC-2(11) by enforcing and specifying usage conditions to increase user accountability and enable effective account monitoring. The organization uses Just-In-Time (JIT) Access to lock or entirely disable an accounts until a user requests access for a specific change window. This typically occurs every 1 to 4 hours. Results are reviewed by the Team Leads and System/Data Owners. Evidence includes The Ticket Matching Reconciliation Sheet, PAM Session Review Log and Quarterly User Access Review (UAR) Sign-Off.
-* Multi-Factor Authentication (MFA)
+* OX-04 - The The Information Security (InfoSec) Team implements MP-3 by marking system media indicating the distribution limitations, handling caveats and applicable security markings (if any) of the information. The organization uses Microsoft Purview Information Protection to enforce that the data is inc compliance with the control. The occurs every 1 to 7 days (Weekly). Results are reviewed by the InfoSec Team. Evidence includes Incremental Check Logic, Community Validation and Defualt Out-Of-The-Box Setting. 
 
 Monitoring Controls
 
