@@ -83,7 +83,7 @@ Example:
 Access Controls
 
 * BOX-01 - The Identity and Access Management (IAM) Team implements AC-6 by ensuring users access data necessary to their role. The organization uses Role Based Access (RBAC) with granular permission management. This occurs every 30 to 90 days (Monthly or Quarterly). Results are reviewed by the IAM Team. Evidence includes the Spreadsheet, the IT Ticket and the Resolution Log.
-* Data Leakage Prevention (DLP)
+* BOX-02 - The Identity and Access Management (IAM) Team implements AC-21 by making certain the organization facilitaes informationa sharing by enabling authorized information sharing from authorized users to determine whether access authorizations assigned to a sharing partner match the information's access and use restrictions. The organization uses (DLP) Microsoft Purview to encrypt and block unathorized senistive data from leaving the network. This occurs Quarterly, every 30 days. Results are reviewed by the IAM Team. Evidence includes the Automated-DeProvisioning, User Access Review (UAR) Signoff Report and the Ticket Match.
 
 Data Controls
 
